@@ -1,0 +1,4 @@
+#gerekli olan kütüphaneleri yazıyoruz, pip install -r requirements.txt ile buradaki kütüphaneler otomatik indirilebilir
+torch
+torchvision
+pathlib
